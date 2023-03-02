@@ -1,0 +1,24 @@
+.Nav { 
+    height: 50px;
+    display: block;
+    width: 56px;
+    justify-content: center;
+    text-align: center;
+    float: left;
+}
+
+.Nav a {
+    -webkit-tap-highlight-color: transparent;
+}
+
+/* .Icon:active {
+    stroke: rgb(255, 255, 255);
+} */
+
+.scrool {
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: all .3s ease;
+    margin-top: 40px;
+}

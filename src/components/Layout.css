@@ -1,0 +1,12 @@
+.wallpaper {
+    display: table;
+    flex-direction: row;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.wallpaper h4 {
+  padding-left: 40px;
+}

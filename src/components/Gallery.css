@@ -1,0 +1,17 @@
+.up {
+    background-color: #71aaeb;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 48px;
+    width: 48px;
+    margin-top: 450px;
+    transition: all .3s ease;
+    position: fixed;
+    top: 0;
+    left: 3px;
+    -webkit-tap-highlight-color: #ffffff00;
+    -webkit-tap-highlight-color: transparent;
+}

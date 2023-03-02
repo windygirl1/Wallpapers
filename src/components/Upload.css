@@ -1,0 +1,30 @@
+.Icon2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.hidden {
+  width: 0;
+  height: 0;
+  opacity: 0;
+}
+
+.btn {
+  margin-top: 188px;
+  margin-left: 84px;
+  background-color: #fff;
+  border-radius: 15px;
+  -webkit-tap-highlight-color: transparent;
+}
+.btn2 {
+  margin-top: 20px;
+  margin-left: 72px;
+  background-color: #fff;
+  border-radius: 15px;
+  -webkit-tap-highlight-color: transparent;
+}
